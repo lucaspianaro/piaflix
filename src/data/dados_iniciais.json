@@ -1,101 +1,114 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Games",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "YoutubeGaming",
+        "url": "http://www.youtube.com/gaming"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "AS MELHORES REPRESENTAÇÕES DO BRASIL NOS GAMES!",
+          "url": "https://www.youtube.com/watch?v=T-4j_UZfoBw"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "SERÁ QUE O SWAIN CONSEGUE RETOMAR O PODER COM ESSES BUFFS? | Kami",
+          "url": "https://www.youtube.com/watch?v=qo04yLlI7tI&t=2s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "O SMURF ME DEU GHOST NA CARA DURA!",
+          "url": "https://www.youtube.com/watch?v=BjOuroc1D9k&t=1s"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "GROUNDED - JOGO DE SOBREVIVÊNCIA ONDE CONTROLAMOS UM HUMANO ENCOLHIDO | O Início de Gameplay",
+          "url": "https://www.youtube.com/watch?v=XHM-CofXikk&t=1030s"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "EXPLICANDO COMO O MAIOR MISTÉRIO DO MINECRAFT FOI RESOLVIDO...",
+          "url": "https://www.youtube.com/watch?v=LYgUH6jZsIc&t=142s"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "JURO que ESSE é o MELHOR MAPA de ZOMBIES de TODOS!",
+          "url": "https://www.youtube.com/watch?v=KKu4SjfXJdo"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Predator: Hunting Grounds -Trailer Oponente supremo | PS4",
+          "url": "https://www.youtube.com/watch?v=hZ6MPY4-KX0"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "ACABOU. - THE LAST OF US PART II - Parte 22 / FINAL",
+          "url": "https://www.youtube.com/watch?v=AGrAQ44DTOU"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
+          "titulo": "3,1415926535...",
+          "url": "https://www.youtube.com/watch?v=WyFhlW7KfjU"
+        }               
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Músicas",
+      "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "YoutubeMusic",
+        "url": "https://music.youtube.com/"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Travis Scott - HIGHEST IN THE ROOM (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=tfSS1e3kYeo"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "J. Cole - MIDDLE CHILD",
+          "url": "https://www.youtube.com/watch?v=WILNIXZr2oc"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "NLE Choppa - Walk Em Down feat. Roddy Ricch (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=fyIcQ1Xl-rs"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Mustard ft. Migos Performance Of ‘Pure Water’ Is A Masterpiece! | BET Awards 2019",
+          "url": "https://www.youtube.com/watch?v=a-c7rAA8ow0"
+        }, 
+        {
+          "titulo": "Cardi B & Offset In FIRE “Clout” & “Press” Performance At The BET Awards! | BET Awards 2019",
+          "url": "https://www.youtube.com/watch?v=WQLxBnLCMKk"
+        },
+        {
+          "titulo": "StaySolidRocky- Party Girl (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=1KlNDZpCkHc"
+        },
+        {
+          "titulo": "Lil Tecca - Out of Love (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=quiiXDfYyyM"
+        }
+
+      ]
+    },
+    {
+      "titulo": "Esportes",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "YoutubeSports",
+        "url": "https://www.youtube.com/channel/UCEgdi0XIXXZ-qJOFPf4JSKw"
+      },
+      "videos": [
+        {
+          "titulo": "Neymar Fez Gol do Título! PSG 1-0 Saint Etienne - Destaques dos Melhores Momentos (24/07/2020)",
+          "url": "https://www.youtube.com/watch?v=GiMk_N8phG8"
+        },
+        {
+          "titulo": "Internacional 0 x 1 Grêmio | Confira o Gol e Destaques da partida | Gauchão 22/07/2020",
+          "url": "https://www.youtube.com/watch?v=H78BcUgCsL0"
+        },
+        {
+          "titulo": "Best Of Dunks | NBA Scrimmages",
+          "url": "https://www.youtube.com/watch?v=49iXSlAmr9I"
+        },
+        {
+          "titulo": "Best of Plays | 2019-20 NBA Season",
+          "url": "https://www.youtube.com/watch?v=mjjksztJKbw"
         }
       ]
     },
